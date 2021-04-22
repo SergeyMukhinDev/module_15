@@ -214,6 +214,8 @@ h2 {
     min-width: 320px;
     max-height: 120px;
     min-height: 60px;
+    display: flex;
+    justify-content: center;
 }
 .micro_container {
     margin-top: 72px;
